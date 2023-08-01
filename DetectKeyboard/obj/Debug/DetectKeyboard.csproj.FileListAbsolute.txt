@@ -1,0 +1,14 @@
+F:\Downloads\DetectKeyboard\DetectKeyboard\bin\Debug\DetectKeyboard.exe.config
+F:\Downloads\DetectKeyboard\DetectKeyboard\bin\Debug\DetectKeyboard.exe
+F:\Downloads\DetectKeyboard\DetectKeyboard\bin\Debug\DetectKeyboard.pdb
+F:\Downloads\DetectKeyboard\DetectKeyboard\obj\Debug\DetectKeyboard.csprojAssemblyReference.cache
+F:\Downloads\DetectKeyboard\DetectKeyboard\obj\Debug\DetectKeyboard.csproj.CoreCompileInputs.cache
+F:\Downloads\DetectKeyboard\DetectKeyboard\obj\Debug\DetectKeyboard.exe
+F:\Downloads\DetectKeyboard\DetectKeyboard\obj\Debug\DetectKeyboard.pdb
+F:\Work\c#\DetectKeyboard\DetectKeyboard\bin\Debug\DetectKeyboard.exe.config
+F:\Work\c#\DetectKeyboard\DetectKeyboard\bin\Debug\DetectKeyboard.exe
+F:\Work\c#\DetectKeyboard\DetectKeyboard\bin\Debug\DetectKeyboard.pdb
+F:\Work\c#\DetectKeyboard\DetectKeyboard\obj\Debug\DetectKeyboard.csprojAssemblyReference.cache
+F:\Work\c#\DetectKeyboard\DetectKeyboard\obj\Debug\DetectKeyboard.csproj.CoreCompileInputs.cache
+F:\Work\c#\DetectKeyboard\DetectKeyboard\obj\Debug\DetectKeyboard.exe
+F:\Work\c#\DetectKeyboard\DetectKeyboard\obj\Debug\DetectKeyboard.pdb
